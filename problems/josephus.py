@@ -1,3 +1,7 @@
+"""
+https://en.wikipedia.org/wiki/Josephus_problem
+"""
+
 def josephus(sequence: list, skip: int):
     result = []
 
